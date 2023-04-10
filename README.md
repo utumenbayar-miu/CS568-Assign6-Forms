@@ -79,3 +79,4 @@ return (
 ```
 * Implement a [Stopwatch Example](https://react.dev/learn/referencing-values-with-refs#example-building-a-stopwatch).
 * Implement a [Ref - Does Not Cause Re-renders](https://www.w3schools.com/react/react_useref.asp)
+* OTP form. When you enter the number in the box, it automatically focuses on the next box. When you remove, focuses back.
