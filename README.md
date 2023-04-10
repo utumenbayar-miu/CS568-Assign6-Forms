@@ -55,6 +55,7 @@ function App() {
 ```
 
 ## Extra
+* OTP form. When you enter the number in the box, it automatically focuses on the next box. When you remove, focuses back.
 * Dynamically build a form. There will be inputs state, inside that there will be input element information. Map that to React elements in the render. Have a general `onChange` method (The general onChange method may not work depending on the input type).
 ```
 const [inputs, setinputs] = useState({
@@ -79,4 +80,3 @@ return (
 ```
 * Implement a [Stopwatch Example](https://react.dev/learn/referencing-values-with-refs#example-building-a-stopwatch).
 * Implement a [Ref - Does Not Cause Re-renders](https://www.w3schools.com/react/react_useref.asp)
-* OTP form. When you enter the number in the box, it automatically focuses on the next box. When you remove, focuses back.
